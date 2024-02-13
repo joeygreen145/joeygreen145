@@ -1,10 +1,28 @@
-Hi, I'm Joseph. Cybersecurity professional. Below are some examples of my work through the Google Cybersecurity Certificate Program.
+Hi, I'm Joseph. Cybersecurity professional. Below are some examples of my work.
 
 Controls and Compliance Checklist
 [Controls and compliance checklist.pdf](https://github.com/joeygreen145/joeygreen145/files/14114467/Controls.and.compliance.checklist.pdf)
 
 Incident Report Analysis
 [Incident report analysis.pdf](https://github.com/joeygreen145/joeygreen145/files/14114471/Incident.report.analysis.pdf)
+
+Installing/Unintalling Applications In Linux
+[Installing_uninstalling applications in Linux_.pdf](https://github.com/joeygreen145/joeygreen145/files/14268085/Installing_uninstalling.applications.in.Linux_.pdf)
+
+Managing Authorization In Linux
+[Managing Authorization In Linux.pdf](https://github.com/joeygreen145/joeygreen145/files/14268097/Managing.Authorization.In.Linux.pdf)
+
+Managing Files With Linux Commands
+[Managing Files With Linux Commands.pdf](https://github.com/joeygreen145/joeygreen145/files/14268114/Managing.Files.With.Linux.Commands.pdf)
+
+Filtering With grep
+[Filtering With grep.pdf](https://github.com/joeygreen145/joeygreen145/files/14268122/Filtering.With.grep.pdf)
+
+Finding Files With Linux Commands
+[Finding Files With Linux Commands.pdf](https://github.com/joeygreen145/joeygreen145/files/14268125/Finding.Files.With.Linux.Commands.pdf)
+
+Examining The Input/Output In The Shell
+[Examining the input_output in the shell.pdf](https://github.com/joeygreen145/joeygreen145/files/14268160/Examining.the.input_output.in.the.shell.pdf)
 
 Managing File Permissions In Linux
 [File permissions in Linux.pdf](https://github.com/joeygreen145/joeygreen145/files/14114474/File.permissions.in.Linux.pdf)
