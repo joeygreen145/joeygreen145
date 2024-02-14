@@ -33,5 +33,9 @@ Applying Filters To SQL Queries
 Conducting A Vulnerability Assessment For A Small Business
 [Vulnerability assessment report template.pdf](https://github.com/joeygreen145/joeygreen145/files/14114485/Vulnerability.assessment.report.template.pdf)
 
+Analysing A Packet In Wireshark
+[Analyzing A Packet In Wireshark.pdf](https://github.com/joeygreen145/joeygreen145/files/14283578/Analyzing.A.Packet.In.Wireshark.pdf)
+
+
 Incident Handler's Journal Examples
 [Incident handler's journal .pdf](https://github.com/joeygreen145/joeygreen145/files/14114488/Incident.handler.s.journal.pdf)
