@@ -39,5 +39,11 @@ Analysing A Packet In Wireshark
 Capturing My First Packet With tcpdump:
 [Capturing My First Packet With tcpdump.pdf](https://github.com/joeygreen145/joeygreen145/files/14284293/Capturing.My.First.Packet.With.tcpdump.pdf)
 
+Performing A Query With Splunk:
+[Performing A Query With Splunk.pdf](https://github.com/joeygreen145/joeygreen145/files/14313217/Performing.A.Query.With.Splunk.pdf)
+
+Performing A Query With Chronicle:
+[Performing A Query With Chronicle.pdf](https://github.com/joeygreen145/joeygreen145/files/14313828/Performing.A.Query.With.Chronicle.pdf)
+
 Incident Handler's Journal Examples
 [Incident handler's journal .pdf](https://github.com/joeygreen145/joeygreen145/files/14114488/Incident.handler.s.journal.pdf)
